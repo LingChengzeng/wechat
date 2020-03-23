@@ -3,7 +3,7 @@ package user
 import (
 	"net/url"
 
-	"github.com/LingChengzeng/wechat/mp/core"
+	"github.com/lingchengzeng/wechat/mp/core"
 )
 
 // 获取用户列表返回的数据结构

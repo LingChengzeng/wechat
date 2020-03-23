@@ -1,7 +1,7 @@
 package mpnews
 
 import (
-	"github.com/LingChengzeng/wechat/mp/core"
+	"github.com/lingchengzeng/wechat/mp/core"
 )
 
 // 获取卡券嵌入图文消息的标准格式代码.

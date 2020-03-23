@@ -1,7 +1,7 @@
 package poi
 
 import (
-	"github.com/LingChengzeng/wechat/mp/core"
+	"github.com/lingchengzeng/wechat/mp/core"
 )
 
 // CategoryList 获取门店类目表.

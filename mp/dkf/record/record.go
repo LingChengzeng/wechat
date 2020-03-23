@@ -4,7 +4,7 @@ package record
 import (
 	"fmt"
 
-	"github.com/LingChengzeng/wechat/mp/core"
+	"github.com/lingchengzeng/wechat/mp/core"
 )
 
 type Record struct {

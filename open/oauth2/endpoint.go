@@ -1,8 +1,8 @@
 package oauth2
 
 import (
-	mpoauth2 "github.com/LingChengzeng/wechat/mp/oauth2"
-	"github.com/LingChengzeng/wechat/oauth2"
+	mpoauth2 "github.com/lingchengzeng/wechat/mp/oauth2"
+	"github.com/lingchengzeng/wechat/oauth2"
 )
 
 var _ oauth2.Endpoint = (*Endpoint)(nil)

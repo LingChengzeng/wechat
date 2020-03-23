@@ -3,7 +3,7 @@ package oauth2
 import (
 	"net/http"
 
-	mpoauth2 "github.com/LingChengzeng/wechat/mp/oauth2"
+	mpoauth2 "github.com/lingchengzeng/wechat/mp/oauth2"
 )
 
 const (

@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/LingChengzeng/wechat/mp/core"
+	"github.com/lingchengzeng/wechat/mp/core"
 )
 
 func TestUnsubscribeEvent(t *testing.T) {

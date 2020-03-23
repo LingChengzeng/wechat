@@ -1,8 +1,8 @@
 package statistics
 
 import (
-	"github.com/LingChengzeng/wechat/mp/core"
-	"github.com/LingChengzeng/wechat/mp/shakearound/device"
+	"github.com/lingchengzeng/wechat/mp/core"
+	"github.com/lingchengzeng/wechat/mp/shakearound/device"
 )
 
 // 以设备为维度的数据统计接口

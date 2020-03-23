@@ -1,7 +1,7 @@
 package statistics
 
 import (
-	"github.com/LingChengzeng/wechat/mp/core"
+	"github.com/lingchengzeng/wechat/mp/core"
 )
 
 // 以页面为维度的数据统计接口

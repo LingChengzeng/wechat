@@ -11,10 +11,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/LingChengzeng/util"
+	"github.com/lingchengzeng/util"
 
-	"github.com/LingChengzeng/wechat/internal/debug/mch/api"
-	wechatutil "github.com/LingChengzeng/wechat/util"
+	"github.com/lingchengzeng/wechat/internal/debug/mch/api"
+	wechatutil "github.com/lingchengzeng/wechat/util"
 )
 
 type Client struct {

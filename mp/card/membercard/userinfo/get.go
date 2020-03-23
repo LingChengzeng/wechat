@@ -1,8 +1,8 @@
 package userinfo
 
 import (
-	"github.com/LingChengzeng/wechat/mp/card/code"
-	"github.com/LingChengzeng/wechat/mp/core"
+	"github.com/lingchengzeng/wechat/mp/card/code"
+	"github.com/lingchengzeng/wechat/mp/core"
 )
 
 type CustomField struct {

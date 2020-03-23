@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/LingChengzeng/wechat/internal/debug/api"
-	"github.com/LingChengzeng/wechat/oauth2"
-	"github.com/LingChengzeng/wechat/util"
+	"github.com/lingchengzeng/wechat/internal/debug/api"
+	"github.com/lingchengzeng/wechat/oauth2"
+	"github.com/lingchengzeng/wechat/util"
 )
 
 // AuthCodeURL 生成网页授权地址.

@@ -1,7 +1,7 @@
 package template
 
 import (
-	"github.com/LingChengzeng/wechat/mp/core"
+	"github.com/lingchengzeng/wechat/mp/core"
 )
 
 // 设置所属行业.

@@ -3,7 +3,7 @@ package material
 import (
 	"fmt"
 
-	"github.com/LingChengzeng/wechat/mp/core"
+	"github.com/lingchengzeng/wechat/mp/core"
 )
 
 type Article struct {

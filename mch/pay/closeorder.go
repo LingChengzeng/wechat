@@ -1,8 +1,8 @@
 package pay
 
 import (
-	"github.com/LingChengzeng/wechat/mch/core"
-	"github.com/LingChengzeng/wechat/util"
+	"github.com/lingchengzeng/wechat/mch/core"
+	"github.com/lingchengzeng/wechat/util"
 )
 
 // CloseOrder 关闭订单.

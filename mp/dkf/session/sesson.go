@@ -4,7 +4,7 @@ package session
 import (
 	"net/url"
 
-	"github.com/LingChengzeng/wechat/mp/core"
+	"github.com/lingchengzeng/wechat/mp/core"
 )
 
 // Create 创建会话.
