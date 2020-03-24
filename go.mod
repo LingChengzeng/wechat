@@ -32,6 +32,6 @@ replace (
 )
 
 require (
-	github.com/lingchengzeng/rand v0.0.0-20180830053958-4b3aff17f488
-	github.com/lingchengzeng/util v0.0.0-20181116100727-caf892acd09c
+	github.com/lingchengzeng/rand v0.0.0-20200323060308-b3c4c52628bf // indirect
+	github.com/lingchengzeng/util v0.0.0-20200323061315-0a49cb8f7995 // indirect
 )
