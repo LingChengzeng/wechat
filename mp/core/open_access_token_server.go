@@ -30,8 +30,8 @@ func NewDefaultOpenAccessTokenServer(appId, appSecret,token string, httpClient *
 
 func (srv *DefaultOpenAccessTokenServer) IID01332E16DF5011E5A9D5A4DB30FED8E1() {}
 
-func (srv *DefaultOpenAccessTokenServer) Token() (token string) {
-	return srv.token
+func (srv *DefaultOpenAccessTokenServer) Token() (token string, err error) {
+	return srv.token,nil
 }
 
 func (srv *DefaultOpenAccessTokenServer) RefreshToken(currentToken string) (token string, err error) {
